@@ -1,4 +1,4 @@
-## 1991: Linux 
+Same UI as Windows 3.0, but new kernel written from scratch -- no longer reliant on MS-DOS.## 1991: Linux 
 
 why was it made? 
 
