@@ -62,4 +62,4 @@ Where to store imap?
 
 **Crash**
 - need to recover imap after a crash
-- solution: write a copy of imap in a fixed location on disk and update it periodically (called a checkpoint).
+- solution: write a copy of imap in a fixed location on disk and update it periodically (called checkpoints) .
